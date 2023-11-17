@@ -1,0 +1,2 @@
+# Cassandra_Manual_Configuration
+Cassandra_Manual_Configuration implementation.
